@@ -7,18 +7,18 @@
     - [セットアップ](ja-jp/0/setup.md)
     - [カスタムノードを立ち上げる](ja-jp/0/running-a-custom-node.md)
     - [ノードと対話する](ja-jp/0/interacting-with-your-node.md)
-    - [Common Patterns Moving Forward](ja-jp/0/common-patterns-moving-forward.md)
+    - [進める上でよくあるパターン](ja-jp/0/common-patterns-moving-forward.md)
 
 - **#1 Basics**
 
-    - [Introduction](ja-jp/1/introduction.md)
-    - [Creating a Module](ja-jp/1/creating-a-module.md)
-    - [Creating a Storage Value](ja-jp/1/creating-a-storage-value.md)
-    - [Storing a Value](ja-jp/1/storing-a-value.md)
-    - [Storage Mapping](ja-jp/1/storage-mapping.md)
-    - [Viewing a Storage Mapping](ja-jp/1/viewing-a-storage-mapping.md)
-    - [Storing a Structure](ja-jp/1/storing-a-structure.md)
-    - [Viewing a Structure](ja-jp/1/viewing-a-structure.md)
+    - [イントロダクション](ja-jp/1/introduction.md)
+    - [モジュールを作成する　Creating a Module](ja-jp/1/creating-a-module.md)
+    - [ストレージの値を作成する　Creating a Storage Value](ja-jp/1/creating-a-storage-value.md)
+    - [値を保存する　Storing a Value](ja-jp/1/storing-a-value.md)
+    - [ストレージマッピング　Storage Mapping](ja-jp/1/storage-mapping.md)
+    - [Polkadot UIで今までの作業を確認する　Viewing a Storage Mapping](ja-jp/1/viewing-a-storage-mapping.md)
+    - [構造体を保存する　Storing a Structure](ja-jp/1/storing-a-structure.md)
+    - [構造体を確認する　Viewing a Structure](ja-jp/1/viewing-a-structure.md)
 
 - **#2 Kitties**
 
