@@ -1,11 +1,10 @@
 # [Substrate Collectables][main link]
 > [Substrate][]ではじめてのブロックチェーンを作るハンズオンワークショップ
-
->### ＊説明不足の箇所や翻訳ミスなどにお気付きの際は、翻訳者[Masaki Minamide][]までご連絡よろしくお願いいたします。If you have noticed any explanation missing or error in Japanese translation, please contact the translator [Masaki Minamide][].＊
+> Translated by [Masaki Minamide][]
 
 ![A screenshot of Substrate kitties](../media/substrate-collectables.png)
 
-## ワークショップを通して学べること
+## このワークショップを通して学べること
 
 これは自分のペースで進められるインタラクティブハンズオンワークショップです。
 ここでは、[Substrate][]と、[Parity][]によるオープンソース[Rust][]ブロックチェーン開発キット使った初めてのブロックチェーンの作り方を学べます。
@@ -15,7 +14,7 @@
 
 基板は現代の静的型システムプログラミング言語[Rust][]を使って作られています。このワークショップでは、言語の詳細には触れません。この言語は読みやすく、追うのが非常に簡単です。プログラム経験があればたとえ[Rust][]初心者でも、ある程度たどって、ワークショップを終えるのにそれほど苦労しないはずです。
 
-## どう進めればいいの？
+## ワークショップの進め方
 
 それぞれの章を一つずつ進め、一度に一つのエクササイズをしてください。この資料は、あなたが自分でできるようにすることを目的としていますが、学習グループやホステッドワークショップで、一緒に集まって他の人と共同で作業することを強くお勧めします。時々動かなくなったり、資料が何を説明しようとしているのか理解できなくなったりするのはまったく普通のことです。そのような問題を解決するために周りに同士を持つことはとても役に立ちます。それとは別に、[チュートリアルに関するフィードバック](feedback)も非常に役に立つでしょう。
 
@@ -28,7 +27,7 @@
 
 ---
 
-## このプロジェクトの貢献に興味がありますか？
+## このプロジェクトの貢献したいですか？？
 >このプロジェクトは完全オープンソースです。以下のいずれかの方法で貢献できます。
 
 * 他言語に翻訳する。まだ誰もやっていないのを確認してから[Githubでissues](https://github.com/shawntabrizi/substrate-collectables-workshop/issues)を開いて始めてください。
@@ -47,7 +46,8 @@ Substratekittiesワークショップが提供できるのは[Cryptokitties](htt
 
 このワークショップがあなたに何か新しいことを教え、その代わり、あなたが他の人に教えてくれることを願います。
 
-> Translated by [Masaki Minamide][]
+>### ＊説明不足の箇所や翻訳ミスなどにお気付きの際は、翻訳者[Masaki Minamide][]までお知らせください。If you have noticed any explanation missing or error in Japanese translation, please contact the translator [Masaki Minamide][].＊
+
 ---
 
 [main link]: https://shawntabrizi.github.io/substrate-collectables-workshop/
